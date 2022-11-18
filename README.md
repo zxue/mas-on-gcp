@@ -19,7 +19,7 @@ and some troubleshooting tips.
 
 - [Install Maximo Application Suite](install-maximo-application-suite.md)
 
-- [Create Database for Maximo](create-database-for-maximo.md)
+- [Install Cloud Pak for Data for Maximo](create-database-for-maximo.md)
 
 - [Activate MAS Manage](activate-mas-manage.md)
 

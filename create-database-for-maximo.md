@@ -1,4 +1,4 @@
-# Create Database for Maximo
+# nstall IBM Cloud Pak for Data
 
 Maximo Application Suite (MAS) requires database to store data using IBM
 DB2, DB2 Warehouse, or other supported types of databases. To use IBM DB2 or DB2
@@ -6,7 +6,7 @@ Warehouse, you can deploy IBM
 Cloud Pak for Data (CP4D) which includes DB2 and DB2 Warehouse. Alternatively, 
 you can install DB2 or DB2 Warehouse directly.
 
-## Deploy IBM Cloud Pak for Data
+## Use Daffy to install CP4D
 
 To install CP4D version 4.5.x or higher, you can use Daffy. For other installtion options, you can refer to the document,
 "[Installing Cloud Pak for

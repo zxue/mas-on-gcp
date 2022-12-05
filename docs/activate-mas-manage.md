@@ -52,4 +52,5 @@ the dashboard.
 
 ![MAS Manage Dashboard](../media/mas-manage-dashboard.png)
 
-[Back to ReadMe page](../README.MD)
+
+[Back to ReadMe page](../README.md)

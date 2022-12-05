@@ -43,4 +43,4 @@ OpenShift deployment on GCP.
 ![Infrastructure on GCP](../media/infrastructure-on-gcp.png)
 
 
-[Back to ReadMe page](../README.MD)
+[Back to ReadMe page](../README.md)

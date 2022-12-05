@@ -130,4 +130,4 @@ minutes to update the connection string in MAS.
 ![Database Connection](../media/database-connection.png)
 
 
-[Back to ReadMe page](../README.MD)
+[Back to ReadMe page](../README.md)

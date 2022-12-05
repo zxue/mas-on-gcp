@@ -174,4 +174,4 @@ openshift-install Dir :      /data/daffy/tmp/mas16/ocp/ocp-install
 ```
 
 
-[Back to ReadMe page](../README.MD)
+[Back to ReadMe page](../README.md)

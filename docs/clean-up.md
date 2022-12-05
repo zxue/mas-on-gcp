@@ -58,4 +58,4 @@ Under the VPC networks section:
 -   delete vpc
 
 
-[Back to ReadMe page](../README.MD)
+[Back to ReadMe page](../README.md)

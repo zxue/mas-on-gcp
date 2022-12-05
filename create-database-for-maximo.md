@@ -128,3 +128,5 @@ box and confirm/save it. Save the connection string. It takes a few
 minutes to update the connection string in MAS.
 
 ![Database Connection](media/database-connection.png)
+
+[Back to ReadMe page](README.MD)

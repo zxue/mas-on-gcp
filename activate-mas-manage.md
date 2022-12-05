@@ -51,3 +51,5 @@ Applications icon (9 dots) at upper right corner. Select Manage to see
 the dashboard.
 
 ![MAS Manage Dashboard](media/mas-manage-dashboard.png)
+
+[Back to ReadMe page](README.MD)

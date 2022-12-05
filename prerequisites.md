@@ -84,3 +84,5 @@ the "Default name servers" tab. Add a DNS record with the NS names you
 obtained from your GCP DNS zone. Save the record.
 
 ![Add a DNS Record](media/add-dns-record.png)
+
+[Back to ReadMe page](README.MD)

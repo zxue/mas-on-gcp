@@ -30,5 +30,3 @@ and some troubleshooting tips.
 - [Clean Up](clean-up.md)
 
 - [Next Steps](next-steps.md)
-
-

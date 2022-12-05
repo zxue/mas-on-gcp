@@ -12,7 +12,7 @@ With the installer option, three storage classes are available for the
 cluster: standard, standard-csi, and pd-ssd. They support "read write
 once" mode (RWO).
 
-![Storage Classes](media/storage-classes.png)
+![Storage Classes](../media/storage-classes.png)
 
 Daffy adds three storage classes, ocs-storagecluster-cephfs,
 ocs-storagecluster-ceph-rbd and openshift-storage.noobaa.io when the
@@ -42,7 +42,7 @@ classes from the console page of the OpenShift PVCs.
 For Maximo, DB2WH data, backup, temps, active logs and meta are in
 storages provisioned by the "nfs-client" storage class.
 
-![Database Storages](media/database-storages.png)
+![Database Storages](../media/database-storages.png)
 
 ## User Data Services
 
@@ -52,4 +52,4 @@ By default, storage class “standard-csi” which uses the provisioner, “pd.c
  
 The "nfs-client" storage class seems to work for UDS though further testing may be necessary. To do that, delete the AnalyticsProxy instance if it exists from the OpenShift admin console and then create a new instance. Make sure that you set the accepting license attribute to “true” in the yaml file. Note that changing the storage class in an existing instance from “standard-csi” to “nfs-client” does not work.
  
-[Back to ReadMe page](./README.MD)
+[Back to ReadMe page](../README.MD)

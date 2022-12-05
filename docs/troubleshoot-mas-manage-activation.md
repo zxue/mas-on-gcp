@@ -19,7 +19,7 @@ section on the MAS administration page.
 jdbc:db2://\<hostname\>:32319/BLUDB**;**securityMechanism=9;sslConnection=true;encryptionAlgorithm=2;
 ```
 
-![Check Database Connection](media/check-database-connection.png)
+![Check Database Connection](../media/check-database-connection.png)
 
 ## Check "ManageWorkspace" custom resource
 
@@ -29,7 +29,7 @@ Instances tab and select the instance named "\<install instance
 id\>-\<workspace name\>". Check if the binding is set at workspace or
 workspace-application and update it if necessary.\
 \
-![Check Workspace](media/check-workspace.png)
+![Check Workspace](../media/check-workspace.png)
 
 ## Check "jdbc" custom resource
 
@@ -40,7 +40,7 @@ There are likely two resources or more in the \<install instance
 id\>-core namespace, one for system and one for workspace. Open the
 System resource and check the YAML detail.
 
-![Check JDBC](media/check-jdbc.png)
+![Check JDBC](../media/check-jdbc.png)
 
 
-[Back to ReadMe page](./README.MD)
+[Back to ReadMe page](../README.MD)

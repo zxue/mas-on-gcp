@@ -71,7 +71,7 @@ You can create a Cloud DNS zone in your GCP project. While not required,
 you may use a subdomain for OpenShift clusters, for example,
 gcp.mydomainxxx.com, leaving submains available for other uses.
 
-![Create a DNS Zone](media/create-dns-zone.png)
+![Create a DNS Zone](../media/create-dns-zone.png)
 
 After a DNS zone is created, one SOA record and one NS (name server)
 record are added automatically. Make a note of the NS names, for example
@@ -83,6 +83,6 @@ In your Google domain account, select DNS from the navigation menu and
 the "Default name servers" tab. Add a DNS record with the NS names you
 obtained from your GCP DNS zone. Save the record.
 
-![Add a DNS Record](media/add-dns-record.png)
+![Add a DNS Record](../media/add-dns-record.png)
 
-[Back to ReadMe page](./,,/README.MD)
+[Back to ReadMe page](../README.MD)

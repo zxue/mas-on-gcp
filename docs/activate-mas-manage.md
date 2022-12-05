@@ -13,7 +13,7 @@ Application](https://ibm-mas.github.io/ansible-devops/playbooks/oneclick-manage/
 From the MAS console, select Workspace, activate "Manage" and deploy
 "Optimizer". This process can take some time.
 
-![MAS Workspace](media/mas-workspace.png)
+![MAS Workspace](../media/mas-workspace.png)
 
 When the activation is completed, the workspace and Manage show "Ready".
 
@@ -50,6 +50,6 @@ Log in with a user account using the revised URL. Click on the
 Applications icon (9 dots) at upper right corner. Select Manage to see
 the dashboard.
 
-![MAS Manage Dashboard](media/mas-manage-dashboard.png)
+![MAS Manage Dashboard](../media/mas-manage-dashboard.png)
 
-[Back to ReadMe page](./,,/README.MD)
+[Back to ReadMe page](../README.MD)

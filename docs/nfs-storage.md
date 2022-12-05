@@ -18,7 +18,7 @@ You can create an NFS server in your GCP project from the cloud console
 or using the gcloud command line. From the cloud console, search for
 "Filestore" and then create an instance.
 
-![Create Cloud Filestore instance](media/create-filestore-instance.png)
+![Create Cloud Filestore instance](../media/create-filestore-instance.png)
 
 Select the same VPC network for the cluster. Choose the instance type
 (Basic, Enterprise, High Scale), storage type (HDD, SSD), and storage
@@ -33,7 +33,7 @@ any Compute Engine VM or GKE cluster can access any Filestore instance
 that's on the same VPC network. With the connectivity to the Filestore
 the storage pods in OpenShift can read and write data it.
 
-![Filestore network peering](media/filestore-network-peering.png)
+![Filestore network peering](../media/filestore-network-peering.png)
 
 Filestore provides data encryption at rest and in transit, and comes
 with two data recovery options, backups and snapshots. For high
@@ -105,7 +105,7 @@ You can check the OpenShift cluster to make sure that the deployment is
 successful. You can scale the deployment from the default 1 pod to 2 or
 more.
 
-![NFS storage provisioner](media/nfs-storage-provisioner.png)
+![NFS storage provisioner](../media/nfs-storage-provisioner.png)
 
 You can create a PVC and a pod to test the storage class using
 test-claim.yaml and test-pod.yaml files, or a sample yaml file that
@@ -146,4 +146,4 @@ volumeMounts:
         claimName: test-nfs-provisioner
 ```
 
-[Back to ReadMe page](./README.MD)
+[Back to ReadMe page](../README.MD)

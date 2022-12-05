@@ -58,7 +58,7 @@ CP4D Web Console: https://cpd-cpd-instance.apps.<clustername>.gcp.mydomainxxx.co
 First, log in to the CP4D control plane and create a DB2 Warehouse
 instance.
 
-![Create DB2 Warehouse](media/create-db2wh.png)
+![Create DB2 Warehouse](../media/create-db2wh.png)
 
 Follow the steps of the database instance creation from the portal:
 
@@ -90,7 +90,7 @@ Connection URL (SSL).
 jdbc:db2://\<CLUSTER_ACCESSIBLE_IP\>:32319/BLUDB:user=-;password=\<password\>;securityMechanism=9;sslConnection=true;encryptionAlgorithm=2
 ```
 
-![DB2 Warehouse Details](media/db2wh-details.png)
+![DB2 Warehouse Details](../media/db2wh-details.png)
 
 Click the "Download SSL Certificate" button to download the certificate.
 You will need the info when configuring the database connection for MAS.
@@ -127,6 +127,6 @@ certificate you downloaded, copy and paste the text to the Certificates
 box and confirm/save it. Save the connection string. It takes a few
 minutes to update the connection string in MAS.
 
-![Database Connection](media/database-connection.png)
+![Database Connection](../media/database-connection.png)
 
-[Back to ReadMe page](./README.MD)
+[Back to ReadMe page](../README.MD)

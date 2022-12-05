@@ -12,7 +12,7 @@ as shown below. The external load balancing is used to optimize network
 traffic from different regions, whereas the internal load balancing is
 used for internal network traffic within the OpenShift cluster.
 
-![Network topology](media/network-topology.png)
+![Network topology](../media/network-topology.png)
 
 When a Filestore instance is created, a network peering for the instance
 is created automatically, enabling access between the instance and pods
@@ -40,6 +40,6 @@ templates, or installing a cluster using user provisioned infrastructure
 The diagram below illustrates the high-level infrastructure of the
 OpenShift deployment on GCP.
 
-![Infrastructure on GCP](media/infrastructure-on-gcp.png)
+![Infrastructure on GCP](../media/infrastructure-on-gcp.png)
 
-[Back to ReadMe page](./README.MD)
+[Back to ReadMe page](../README.MD)

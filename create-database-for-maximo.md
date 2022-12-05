@@ -58,7 +58,7 @@ CP4D Web Console: https://cpd-cpd-instance.apps.<clustername>.gcp.mydomainxxx.co
 First, log in to the CP4D control plane and create a DB2 Warehouse
 instance.
 
-![Create DB2 Warehouse(media/create-db2wh.png)
+![Create DB2 Warehouse](media/create-db2wh.png)
 
 Follow the steps of the database instance creation from the portal:
 

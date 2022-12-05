@@ -43,4 +43,4 @@ System resource and check the YAML detail.
 ![Check JDBC](../media/check-jdbc.png)
 
 
-[Back to ReadMe page](../README.MD)
+[Back to ReadMe page](~/README.MD)

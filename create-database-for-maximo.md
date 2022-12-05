@@ -90,7 +90,7 @@ Connection URL (SSL).
 jdbc:db2://\<CLUSTER_ACCESSIBLE_IP\>:32319/BLUDB:user=-;password=\<password\>;securityMechanism=9;sslConnection=true;encryptionAlgorithm=2
 ```
 
-![DB2 Warehouse Connection](media/db2wh-details.png)
+![DB2 Warehouse Details](media/db2wh-details.png)
 
 Click the "Download SSL Certificate" button to download the certificate.
 You will need the info when configuring the database connection for MAS.

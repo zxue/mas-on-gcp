@@ -1,4 +1,4 @@
-# nstall IBM Cloud Pak for Data
+# Install IBM Cloud Pak for Data
 
 Maximo Application Suite (MAS) requires database to store data using IBM
 DB2, DB2 Warehouse, or other supported types of databases. To use IBM DB2 or DB2

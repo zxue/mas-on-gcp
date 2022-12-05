@@ -52,4 +52,4 @@ By default, storage class “standard-csi” which uses the provisioner, “pd.c
  
 The "nfs-client" storage class seems to work for UDS though further testing may be necessary. To do that, delete the AnalyticsProxy instance if it exists from the OpenShift admin console and then create a new instance. Make sure that you set the accepting license attribute to “true” in the yaml file. Note that changing the storage class in an existing instance from “standard-csi” to “nfs-client” does not work.
  
-[Back to ReadMe page](README.MD)
+[Back to ReadMe page](./README.MD)

@@ -85,4 +85,4 @@ obtained from your GCP DNS zone. Save the record.
 
 ![Add a DNS Record](media/add-dns-record.png)
 
-[Back to ReadMe page](./README.MD)
+[Back to ReadMe page](./,,/README.MD)

@@ -9,24 +9,24 @@ OpenShift, NFS backed storage and Maximo Application Suite Google Cloud
 and some troubleshooting tips.
 
 
-- [Prerequisites](prerequisites.md)
+- [Prerequisites](docs/prerequisites.md)
 
-- [Install Red Hat OpenShift](install-openshift.md)
+- [Install Red Hat OpenShift](docs/install-openshift.md)
 
-- [Use NFS Server backed Storage for OpenShift](nfs-storage.md)
+- [Use NFS Server backed Storage for OpenShift](docs/nfs-storage.md)
 
-- [OpenShift Infrastructure on GCP](openshift-infrastructure-on-gcp.md)
+- [OpenShift Infrastructure on GCP](docs/openshift-infrastructure-on-gcp.md)
 
-- [Install Maximo Application Suite](install-maximo-application-suite.md)
+- [Install Maximo Application Suite](docs/install-maximo-application-suite.md)
 
-- [Install Cloud Pak for Data for Maximo](create-database-for-maximo.md)
+- [Install Cloud Pak for Data for Maximo](docs/create-database-for-maximo.md)
 
-- [Activate MAS Manage](activate-mas-manage.md)
+- [Activate MAS Manage](docs/activate-mas-manage.md)
 
-- [Storage Considerations](storage-considerations.md)
+- [Storage Considerations](docs/storage-considerations.md)
 
-- [Troubleshoot MAS Manage Activation](troubleshoot-mas-manage-activation.md)
+- [Troubleshoot MAS Manage Activation](docs/troubleshoot-mas-manage-activation.md)
 
-- [Clean Up](clean-up.md)
+- [Clean Up](docs/clean-up.md)
 
-- [Next Steps](next-steps.md)
+- [Next Steps](docs/next-steps.md)

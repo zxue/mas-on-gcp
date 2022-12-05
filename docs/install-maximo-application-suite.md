@@ -123,4 +123,5 @@ ok: [localhost] => {
         "Password .......... cwtq9z5ApGhZF8K1hROcsLXkaL7zcPQE"    ]}
 ```
 
-[Back to ReadMe page](~/README.MD)
+
+[Back to ReadMe page](../README.MD)
